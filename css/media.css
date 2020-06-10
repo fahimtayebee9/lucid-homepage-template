@@ -1,0 +1,1802 @@
+@media(max-width: 1920px){
+    
+}
+@media(max-width: 1771px){
+    
+}
+@media(max-width: 1651px){
+    
+}
+@media(max-width: 1440px){
+    
+}
+@media(max-width:1350px){
+    
+}
+@media(max-width:1250px){
+    
+}
+@media(max-width: 1199px){
+    .btn-ul {
+        list-style: none;
+        display: flex;
+        padding-right: 70px;
+    }
+    .navbar-toggler {
+        padding: 2px 6px;
+        font-size: 16px;
+    }
+    .w320{
+        /* justify-content: center; */
+        /* align-items: center; */
+        /* margin: auto; */
+        /* text-align: center; */
+    }
+    .mobile {
+        background-size: 270px;
+    }
+    .w320 .marker {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .banner-content h1 {
+        font-size: 32px;
+    }
+    .banner-content p {
+        font-size: 15px;
+    }
+    .btn-custom {
+        font-size: 13px;
+        border-radius: 3px;
+        padding: 8px 10px;
+    }
+    .btn-custom::before{
+        border-radius: 3px;
+    }
+    .hg {
+        padding-top: 95px;
+    }
+    .features-area {
+        padding: 40px 0px;
+        padding-bottom: 30px;
+    }
+    .navbar-back {
+        padding-top: 10px;
+    }
+    .marker {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .h1-bottom-border {
+        font-size: 25px;
+    }
+    .img-content {
+        height: 60px;
+        width: 60px;
+        line-height: 65px;
+    }
+    .features-content-area {
+        padding: 0px 0px;
+    }
+    .img-content i {
+        font-size: 24px;
+    }
+    .features-content .img-content {
+        margin-bottom: 0px;
+    }
+    .features-content h6 {
+        font-size: 19px;
+    }
+    .features-content p {
+        font-size: 16px;
+    }
+    .features-content{
+        margin-top: 25px;
+    }
+    .content {
+        padding: 65px 0px;
+        /* justify-content: center; */
+        /* align-items: center; */
+        /* margin: auto; */
+        /* text-align: center; */
+    }    
+    .device-spec .h1-bottom-border {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .device-spec .h1-bottom-border::before {
+        left: 0;
+    }
+    .device-spec .h1-bottom-border::after {
+        left: 10%;
+    }
+    .content p {
+        margin-top: 25px;
+        font-size: 16px;
+    }
+    .content-text {
+        display: flex;
+        /* margin: auto; */
+        /* text-align: center; */
+    }
+    .content-text h6 {
+        padding-left: 10px;
+        font-size: 16px;
+    }
+    .content-text .icon-area i {
+        font-size: 18px;
+    }
+    .content-text .icon-area {
+        height: 20px;
+        width: 20px;
+        line-height: 15px;
+    }
+    .customize-content p {
+        font-size: 16px;
+    }
+    .text-area{
+        margin: 0;
+    }
+    .custom .mobile {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 250px;
+        opacity: 1;
+    }
+    .custom {
+        padding: 50px 0px;
+        /* justify-content: center!important; */
+        /* align-items: center!important; */
+        /* margin: auto!important; */
+        /* text-align: center; */
+    }
+    .device-spec .mobile {
+        background-image: url(../images/mobile-full.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 270px;
+    }
+    .custom .h1-bottom-border::before {
+        left: 0;
+    }
+    .custom .h1-bottom-border::after {
+        left: 10%;
+    }
+    .pricing-plans-main {
+        padding: 50px 0px;
+    }
+    .pricing-plans-content .h1-bottom-border {
+        padding-bottom: 20px;
+        color: #c5c5c5;
+        font-size: 25px;
+    }
+    .silder{
+        justify-content: center!important;
+        align-items: center!important;
+        margin: auto!important;
+        text-align: center;
+    }
+    .main-silder {
+        padding: 0px 0px;
+        padding-bottom: 95px;
+    }
+    .italic-text {
+        font-size: 16px;
+    }
+    .user-detail {
+        display: block;
+        margin: auto;
+        padding-top: 20px;
+    }
+    .user-detail .img-con img{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .name-info h6 {
+        font-size: 17px;
+    }
+    .name-info p {
+        font-size: 13px;
+    }
+    .pad{
+        margin-top: 20px;
+    }
+    .dw320{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .download-section h1 {
+        font-size: 18px;
+    }
+    .download-section .btn-area{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .download .btn-ul .btn-custom {
+        font-size: 12px;
+    }
+    .pricing-versions {
+        padding: 60px 0px;
+    }
+    .plan h3 {
+        font-size: 19px;
+        font-weight: 700;
+    }
+    .price h1 {
+        font-size: 38px;
+        margin: 0;
+    }
+    .amount h4 {
+        font-size: 23px;
+        padding-top: 4px;
+        margin: 0;
+    }
+    .price p {
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+    .amount {
+        padding-top: 14px;
+    }
+    .benifit p {
+        font-size: 16px;
+        margin-bottom: 12px;
+        padding: 0px 10px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .plan .btn-custom {
+        padding: 8px 14px;
+        font-size: 14px;
+    }
+    .pw320{
+        /* margin-top: 15px; */
+    }
+    .main-cont {
+        padding: 50px 0px;
+    }
+    .info {
+        padding: 25px 0px;
+    }
+    .contact-icon {
+        padding-bottom: 10px;
+    }
+    .contact-info p {
+        margin: 0;
+        font-size: 17px;
+        font-family: 'SourceSansPro Regular',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        color: #3f3f3f;
+    }
+    form .input-style {
+        margin-bottom: 12px;
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .social-icon i {
+        font-size: 18px;
+    }
+    .footer-main p {
+        font-size: 12px;
+    }
+    .bttn-send {
+        padding-bottom: 45px;
+        /* text-align: center; */
+        /* justify-content: center!important; */
+    }
+    .bttn-send .btn-custom {
+        font-size: 12px;
+        border-radius: 3px;
+        padding: 6px 30px;
+    }
+    .bttn-send .btn-custom::before{
+        border-radius: 3px;
+    }
+    .contact-area {
+        background-color: #f2f2f2;
+        min-height: 500px;
+    }
+    .banner-button {
+        padding-top: 14px;
+        /* justify-content: center; */
+    }
+    .swiper-pagination-bullet {
+        width: 8px;
+        height: 8px;
+    }
+    .w-sm{
+        padding-left: 0;
+    }
+    .footer-content {
+        padding-top: 20px;
+        padding-bottom: 8px;
+    }
+    .navbar-back ul li a {
+        font-size: 14px;
+    }
+}
+@media(max-width: 1066px){
+    
+}
+@media(max-width: 991px){
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");    
+    }
+    .btn-ul {
+        padding-right: 0px;
+    }
+    .navbar-toggler {
+        padding: 2px 6px;
+        font-size: 16px;
+        border: 2px solid #f3f3f3!important;
+    }
+    .w320{
+        /* justify-content: center; */
+        /* align-items: center; */
+        /* margin: auto; */
+        /* text-align: center; */
+    }
+    .mobile {
+        background-size: 270px;
+    }
+    .w320 .marker {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .banner-content h1 {
+        font-size: 32px;
+    }
+    .banner-content p {
+        font-size: 15px;
+    }
+    .btn-custom {
+        font-size: 13px;
+        border-radius: 3px;
+        padding: 8px 10px;
+    }
+    .btn-custom::before{
+        border-radius: 3px;
+    }
+    .btn-custom::before{
+        border-radius: 3px;
+    }
+    .hg {
+        padding-top: 95px;
+    }
+    .features-area {
+        padding: 40px 0px;
+        padding-bottom: 30px;
+    }
+    .navbar-back {
+        padding-top: 10px;
+    }
+    .marker {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .h1-bottom-border {
+        font-size: 25px;
+    }
+    .img-content {
+        height: 60px;
+        width: 60px;
+        line-height: 65px;
+    }
+    .features-content-area {
+        padding: 0px 0px;
+    }
+    .img-content i {
+        font-size: 24px;
+    }
+    .features-content .img-content {
+        margin-bottom: 0px;
+    }
+    .features-content h6 {
+        font-size: 19px;
+    }
+    .features-content p {
+        font-size: 16px;
+    }
+    .features-content{
+        margin-top: 25px;
+    }
+    .content {
+        padding: 65px 0px;
+        /* justify-content: center; */
+        /* align-items: center; */
+        /* margin: auto; */
+        /* text-align: center; */
+    }    
+    .device-spec .h1-bottom-border {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .device-spec .h1-bottom-border::before {
+        left: 0;
+    }
+    .device-spec .h1-bottom-border::after {
+        left: 10%;
+    }
+    .content p {
+        margin-top: 25px;
+        font-size: 16px;
+    }
+    .content-text {
+        display: flex;
+        /* margin: auto; */
+        /* text-align: center; */
+    }
+    .content-text h6 {
+        padding-left: 10px;
+        font-size: 16px;
+    }
+    .content-text .icon-area i {
+        font-size: 18px;
+    }
+    .content-text .icon-area {
+        height: 20px;
+        width: 20px;
+        line-height: 15px;
+    }
+    .customize-content p {
+        font-size: 16px;
+    }
+    .text-area{
+        margin: 0;
+    }
+    .custom .mobile {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 250px;
+        opacity: 1;
+    }
+    .custom {
+        padding: 50px 0px;
+        /* justify-content: center!important; */
+        /* align-items: center!important; */
+        /* margin: auto!important; */
+        /* text-align: center; */
+    }
+    .device-spec .mobile {
+        background-image: url(../images/mobile-full.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 270px;
+    }
+    .custom .h1-bottom-border::before {
+        left: 0;
+    }
+    .custom .h1-bottom-border::after {
+        left: 10%;
+    }
+    .pricing-plans-main {
+        padding: 50px 0px;
+    }
+    .pricing-plans-content .h1-bottom-border {
+        padding-bottom: 20px;
+        color: #c5c5c5;
+        font-size: 25px;
+    }
+    .silder{
+        justify-content: center!important;
+        align-items: center!important;
+        margin: auto!important;
+        text-align: center;
+    }
+    .main-silder {
+        padding: 0px 0px;
+        padding-bottom: 95px;
+    }
+    .italic-text {
+        font-size: 16px;
+    }
+    .user-detail {
+        display: block;
+        margin: auto;
+        padding-top: 20px;
+    }
+    .user-detail .img-con img{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .name-info h6 {
+        font-size: 17px;
+    }
+    .name-info p {
+        font-size: 13px;
+    }
+    .pad{
+        margin-top: 20px;
+    }
+    .dw320{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .download-section h1 {
+        font-size: 18px;
+    }
+    .download-section .btn-area{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .download .btn-ul .btn-custom {
+        font-size: 12px;
+    }
+    .pricing-versions {
+        padding: 60px 0px;
+    }
+    .plan h3 {
+        font-size: 19px;
+        font-weight: 700;
+    }
+    .price h1 {
+        font-size: 38px;
+        margin: 0;
+    }
+    .amount h4 {
+        font-size: 23px;
+        padding-top: 4px;
+        margin: 0;
+    }
+    .price p {
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+    .amount {
+        padding-top: 14px;
+    }
+    .benifit p {
+        font-size: 16px;
+        margin-bottom: 12px;
+        padding: 0px 10px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .plan .btn-custom {
+        padding: 8px 14px;
+        font-size: 14px;
+    }
+    .pw320{
+        /* margin-top: 15px; */
+    }
+    .main-cont {
+        padding: 50px 0px;
+    }
+    .info {
+        padding: 25px 0px;
+    }
+    .contact-icon {
+        padding-bottom: 10px;
+    }
+    .contact-info p {
+        margin: 0;
+        font-size: 17px;
+        font-family: 'SourceSansPro Regular',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        color: #3f3f3f;
+    }
+    form .input-style {
+        margin-bottom: 12px;
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .social-icon i {
+        font-size: 18px;
+    }
+    .footer-main p {
+        font-size: 12px;
+    }
+    .bttn-send {
+        padding-bottom: 45px;
+        /* text-align: center; */
+        /* justify-content: center!important; */
+    }
+    .bttn-send .btn-custom {
+        font-size: 12px;
+        border-radius: 3px;
+        padding: 6px 30px;
+    }
+    .bttn-send .btn-custom::before{
+        border-radius: 3px;
+    }
+    .contact-area {
+        background-color: #f2f2f2;
+        min-height: 500px;
+    }
+    .banner-button {
+        padding-top: 14px;
+        /* justify-content: center; */
+    }
+    .swiper-pagination-bullet {
+        width: 8px;
+        height: 8px;
+    }
+    .w-sm{
+        padding-left: 0;
+    }
+    .footer-content {
+        padding-top: 20px;
+        padding-bottom: 8px;
+    }
+}
+@media(max-width: 870px){
+    
+}
+@media(max-width: 767px){
+    .text-center {
+        text-align: center!important;
+        margin: auto;
+    }
+    .navbar-toggler {
+        padding: 2px 6px;
+        font-size: 16px;
+    }
+    .w320{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .w320 .marker {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .banner-content h1 {
+        font-size: 32px;
+    }
+    .banner-content p {
+        font-size: 15px;
+    }
+    .btn-custom {
+        font-size: 13px;
+        border-radius: 3px;
+        padding: 8px 14px;
+    }
+    .btn-custom::before{
+        border-radius: 3px;
+    }
+    .hg {
+        padding-top: 95px;
+    }
+    .features-area {
+        padding: 40px 0px;
+        padding-bottom: 30px;
+    }
+    .navbar-back {
+        padding-top: 10px;
+    }
+    .marker {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .h1-bottom-border {
+        font-size: 25px;
+    }
+    .img-content {
+        height: 60px;
+        width: 60px;
+        line-height: 65px;
+    }
+    .features-content-area {
+        padding: 0px 0px;
+    }
+    .img-content i {
+        font-size: 24px;
+    }
+    .features-content .img-content {
+        margin-bottom: 0px;
+    }
+    .features-content h6 {
+        font-size: 18px;
+    }
+    .features-content p {
+        font-size: 15px;
+    }
+    .features-content{
+        margin-top: 25px;
+    }
+    .content {
+        padding: 35px 0px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }    
+    .device-spec .h1-bottom-border {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .device-spec .h1-bottom-border::before {
+        left: 41%;
+    }
+    .device-spec .h1-bottom-border::after {
+        left: 51%;
+    }
+    .content p {
+        margin-top: 25px;
+        font-size: 16px;
+    }
+    .content-text {
+        display: flex;
+        margin: auto;
+        text-align: center;
+    }
+    .content-text h6 {
+        padding-left: 10px;
+        font-size: 16px;
+    }
+    .content-text .icon-area i {
+        font-size: 18px;
+    }
+    .content-text .icon-area {
+        height: 20px;
+        width: 20px;
+        line-height: 15px;
+    }
+    .customize-content p {
+        font-size: 16px;
+    }
+    .custom .mobile {
+        background-image: none;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 0px;
+        opacity: 0;
+    }
+    .custom {
+        padding: 30px 0px;
+        justify-content: center!important;
+        align-items: center!important;
+        margin: auto!important;
+        text-align: center;
+    }
+    .custom .h1-bottom-border::before {
+        left: 40%;
+    }
+    .custom .h1-bottom-border::after {
+        left: 50%;
+    }
+    .pricing-plans-main {
+        padding: 30px 0px;
+    }
+    .pricing-plans-content .h1-bottom-border {
+        padding-bottom: 20px;
+        color: #c5c5c5;
+        font-size: 25px;
+    }
+    .silder{
+        justify-content: center!important;
+        align-items: center!important;
+        margin: auto!important;
+        text-align: center;
+    }
+    .main-silder {
+        padding: 0px 0px;
+        padding-bottom: 95px;
+    }
+    .italic-text {
+        font-size: 16px;
+    }
+    .user-detail {
+        display: block;
+        margin: auto;
+        padding-top: 20px;
+    }
+    .user-detail .img-con img{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .name-info h6 {
+        font-size: 17px;
+    }
+    .name-info p {
+        font-size: 13px;
+    }
+    .pad{
+        margin-top: 20px;
+    }
+    .dw320{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .download-section h1 {
+        font-size: 18px;
+    }
+    .download-section .btn-area{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .download .btn-ul .btn-custom {
+        font-size: 12px;
+    }
+    .pricing-versions {
+        padding: 40px 0px;
+    }
+    .plan h3 {
+        font-size: 19px;
+        font-weight: 700;
+    }
+    .price h1 {
+        font-size: 38px;
+        margin: 0;
+    }
+    .amount h4 {
+        font-size: 23px;
+        padding-top: 4px;
+        margin: 0;
+    }
+    .price p {
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+    .amount {
+        padding-top: 14px;
+    }
+    .benifit p {
+        font-size: 16px;
+        margin-bottom: 12px;
+        padding: 0px 10px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .plan .btn-custom {
+        padding: 8px 14px;
+        font-size: 14px;
+    }
+    .pw320{
+        margin-top: 15px;
+    }
+    .main-cont {
+        padding: 50px 0px;
+    }
+    .info {
+        padding: 25px 0px;
+    }
+    .contact-icon {
+        padding-bottom: 10px;
+    }
+    .contact-info p {
+        margin: 0;
+        font-size: 17px;
+        font-family: 'SourceSansPro Regular',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        color: #3f3f3f;
+    }
+    form .input-style {
+        margin-bottom: 12px;
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .social-icon i {
+        font-size: 18px;
+    }
+    .footer-main p {
+        font-size: 15px;
+    }
+    .bttn-send {
+        padding-bottom: 30px;
+        text-align: center;
+        justify-content: center!important;
+    }
+    .bttn-send .btn-custom {
+        font-size: 12px;
+        border-radius: 3px;
+        padding: 6px 30px;
+    }
+    .btn-custom::before{
+        border-radius: 3px;
+    }
+    .contact-area {
+        background-color: #f2f2f2;
+        min-height: 590px;
+    }
+    .banner-button {
+        padding-top: 14px;
+        justify-content: center;
+    }
+    .swiper-pagination-bullet {
+        width: 8px;
+        height: 8px;
+    }
+    .w-sm{
+        padding-left: 0;
+    }
+    .footer-content {
+        padding-top: 20px;
+        padding-bottom: 8px;
+    }
+}
+@media(max-width:672px){
+    
+}
+@media (max-width: 575px){
+    .navbar-toggler {
+        padding: 2px 6px;
+        font-size: 16px;
+    }
+    .w320{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .w320 .marker {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .banner-content h1 {
+        font-size: 34px;
+    }
+    .banner-content p {
+        font-size: 15px;
+    }
+    .btn-custom {
+        font-size: 12px;
+        border-radius: 3px;
+        padding: 8px 14px;
+    }
+    .btn-custom::before{
+        border-radius: 3px;
+    }
+    .hg {
+        padding-top: 95px;
+    }
+    .features-area {
+        padding: 40px 0px;
+        padding-bottom: 30px;
+    }
+    .navbar-back {
+        padding-top: 10px;
+    }
+    .marker {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .h1-bottom-border {
+        font-size: 22px;
+    }
+    .img-content {
+        height: 60px;
+        width: 60px;
+        line-height: 65px;
+    }
+    .features-content-area {
+        padding: 0px 0px;
+    }
+    .img-content i {
+        font-size: 24px;
+    }
+    .features-content .img-content {
+        margin-bottom: 0px;
+    }
+    .features-content h6 {
+        font-size: 18px;
+    }
+    .features-content p {
+        font-size: 15px;
+    }
+    .features-content{
+        margin-top: 25px;
+    }
+    .content {
+        padding: 35px 0px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }    
+    .device-spec .h1-bottom-border {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .device-spec .h1-bottom-border::before {
+        left: 41%;
+    }
+    .device-spec .h1-bottom-border::after {
+        left: 51%;
+    }
+    .content p {
+        margin-top: 25px;
+        font-size: 15px;
+    }
+    .content-text {
+        display: flex;
+        margin: auto;
+        text-align: center;
+    }
+    .content-text h6 {
+        padding-left: 10px;
+        font-size: 16px;
+    }
+    .content-text .icon-area i {
+        font-size: 18px;
+    }
+    .content-text .icon-area {
+        height: 20px;
+        width: 20px;
+        line-height: 15px;
+    }
+    .customize-content p {
+        font-size: 15px;
+    }
+    .custom .mobile {
+        background-image: none;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 0px;
+        opacity: 0;
+    }
+    .custom {
+        padding: 30px 0px;
+        justify-content: center!important;
+        align-items: center!important;
+        margin: auto!important;
+        text-align: center;
+    }
+    .custom .h1-bottom-border::before {
+        left: 40%;
+    }
+    .custom .h1-bottom-border::after {
+        left: 50%;
+    }
+    .pricing-plans-main {
+        padding: 30px 0px;
+    }
+    .pricing-plans-content .h1-bottom-border {
+        padding-bottom: 20px;
+        color: #c5c5c5;
+        font-size: 25px;
+    }
+    .silder{
+        justify-content: center!important;
+        align-items: center!important;
+        margin: auto!important;
+        text-align: center;
+    }
+    .main-silder {
+        padding: 0px 0px;
+        padding-bottom: 95px;
+    }
+    .italic-text {
+        font-size: 16px;
+    }
+    .user-detail {
+        display: block;
+        margin: auto;
+        padding-top: 20px;
+    }
+    .user-detail .img-con img{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .name-info h6 {
+        font-size: 17px;
+    }
+    .name-info p {
+        font-size: 15px;
+    }
+    .pad{
+        margin-top: 20px;
+    }
+    .dw320{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .download-section h1 {
+        font-size: 13px;
+    }
+    .download-section .btn-area{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .download .btn-ul .btn-custom {
+        font-size: 12px;
+    }
+    .pricing-versions {
+        padding: 40px 0px;
+    }
+    .plan h3 {
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .price h1 {
+        font-size: 32px;
+        margin: 0;
+    }
+    .amount h4 {
+        font-size: 16px;
+        padding-top: 4px;
+        margin: 0;
+    }
+    .price p {
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+    .amount {
+        padding-top: 8px;
+    }
+    .benifit p {
+        font-size: 15px;
+        margin-bottom: 12px;
+        padding: 0px 10px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .plan .btn-custom {
+        padding: 5px 14px;
+        font-size: 13px;
+    }
+    .pw320{
+        margin-top: 15px;
+    }
+    .main-cont {
+        padding: 50px 0px;
+    }
+    .info {
+        padding: 25px 0px;
+    }
+    .contact-icon {
+        padding-bottom: 10px;
+    }
+    .contact-info p {
+        margin: 0;
+        font-size: 15px;
+        font-family: 'SourceSansPro Regular',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        color: #3f3f3f;
+    }
+    form .input-style {
+        margin-bottom: 12px;
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .social-icon i {
+        font-size: 18px;
+    }
+    .footer-main p {
+        font-size: 13px;
+    }
+    .bttn-send {
+        padding-bottom: 30px;
+        text-align: center;
+        justify-content: center!important;
+    }
+    .bttn-send .btn-custom {
+        font-size: 12px;
+        border-radius: 3px;
+        padding: 6px 30px;
+    }
+    .bttn-send .btn-custom::before{
+        border-radius: 3px;
+    }
+    .contact-area {
+        background-color: #f2f2f2;
+        min-height: 590px;
+    }
+    .banner-button {
+        padding-top: 14px;
+        justify-content: center;
+    }
+    .swiper-pagination-bullet {
+        width: 8px;
+        height: 8px;
+    }
+}
+@media(max-width:520px){
+    
+}
+@media(max-width: 475px){
+    .navbar-toggler {
+        padding: 2px 6px;
+        font-size: 16px;
+    }
+    .w320{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .w320 .marker {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .banner-content h1 {
+        font-size: 28px;
+    }
+    .banner-content p {
+        font-size: 12px;
+    }
+    .btn-custom {
+        font-size: 9px;
+        border-radius: 3px;
+        padding: 8px 12px;
+    }
+    .btn-custom::before{
+        border-radius: 3px;
+    }
+    .hg {
+        padding-top: 95px;
+        padding-right: 0;
+    }
+    .features-area {
+        padding: 40px 0px;
+        padding-bottom: 30px;
+    }
+    .navbar-back {
+        padding-top: 10px;
+    }
+    .marker {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .h1-bottom-border {
+        font-size: 20px;
+    }
+    .img-content {
+        height: 60px;
+        width: 60px;
+        line-height: 65px;
+    }
+    .features-content-area {
+        padding: 0px 0px;
+    }
+    .img-content i {
+        font-size: 24px;
+    }
+    .features-content .img-content {
+        margin-bottom: 0px;
+    }
+    .features-content h6 {
+        font-size: 16px;
+    }
+    .features-content p {
+        font-size: 13px;
+    }
+    .features-content{
+        margin-top: 25px;
+    }
+    .content {
+        padding: 35px 0px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }    
+    .device-spec .h1-bottom-border {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .device-spec .h1-bottom-border::before {
+        left: 41%;
+    }
+    .device-spec .h1-bottom-border::after {
+        left: 51%;
+    }
+    .content p {
+        margin-top: 25px;
+        font-size: 13px;
+    }
+    .content-text {
+        display: flex;
+        margin: auto;
+        text-align: center;
+    }
+    .content-text h6 {
+        padding-left: 10px;
+        font-size: 14px;
+    }
+    .content-text .icon-area i {
+        font-size: 14px;
+    }
+    .content-text .icon-area {
+        height: 20px;
+        width: 20px;
+        line-height: 15px;
+    }
+    .customize-content p {
+        font-size: 13px;
+    }
+    .custom .mobile {
+        background-image: none;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 0px;
+        opacity: 0;
+    }
+    .custom {
+        padding: 30px 0px;
+        justify-content: center!important;
+        align-items: center!important;
+        margin: auto!important;
+        text-align: center;
+    }
+    .custom .h1-bottom-border::before {
+        left: 40%;
+    }
+    .custom .h1-bottom-border::after {
+        left: 50%;
+    }
+    .pricing-plans-main {
+        padding: 30px 0px;
+    }
+    .pricing-plans-content .h1-bottom-border {
+        padding-bottom: 20px;
+        color: #999999;
+        font-size: 22px;
+    }
+    .silder{
+        justify-content: center!important;
+        align-items: center!important;
+        margin: auto!important;
+        text-align: center;
+    }
+    .main-silder {
+        padding: 0px 0px;
+        padding-bottom: 95px;
+    }
+    .italic-text {
+        font-size: 14px;
+    }
+    .user-detail {
+        display: block;
+        margin: auto;
+        padding-top: 20px;
+    }
+    .user-detail .img-con img{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .name-info h6 {
+        font-size: 17px;
+    }
+    .name-info p {
+        font-size: 12px;
+    }
+    .pad{
+        margin-top: 20px;
+    }
+    .dw320{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .download-section h1 {
+        font-size: 10px;
+    }
+    .download-section .btn-area{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .download .btn-ul .btn-custom {
+        font-size: 9px;
+    }
+    .pricing-versions {
+        padding: 40px 0px;
+    }
+    .plan h3 {
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .price h1 {
+        font-size: 28px;
+        margin: 0;
+    }
+    .amount h4 {
+        font-size: 14px;
+        padding-top: 4px;
+        margin: 0;
+    }
+    .price p {
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+    .amount {
+        padding-top: 8px;
+    }
+    .benifit p {
+        font-size: 13px;
+        margin-bottom: 12px;
+        padding: 0px 10px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .plan .btn-custom {
+        padding: 5px 10px;
+        font-size: 10px;
+    }
+    .pw320{
+        margin-top: 15px;
+    }
+    .main-cont {
+        padding: 50px 0px;
+    }
+    .info {
+        padding: 25px 0px;
+    }
+    .contact-icon {
+        padding-bottom: 10px;
+    }
+    .contact-info p {
+        margin: 0;
+        font-size: 13px;
+        font-family: 'SourceSansPro Regular',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        color: #3f3f3f;
+    }
+    form .input-style {
+        margin-bottom: 12px;
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .social-icon i {
+        font-size: 18px;
+    }
+    .footer-main p {
+        font-size: 10px;
+    }
+    .bttn-send {
+        padding-bottom: 30px;
+        text-align: center;
+        justify-content: center!important;
+    }
+    .bttn-send .btn-custom {
+        font-size: 12px;
+        border-radius: 3px;
+        padding: 6px 30px;
+    }
+    .btn-custom::before{
+        border-radius: 3px;
+    }
+    .contact-area {
+        background-color: #f2f2f2;
+        min-height: 590px;
+    }
+    .banner-button {
+        padding-top: 14px;
+        justify-content: center;
+    }
+    .swiper-pagination-bullet {
+        width: 8px;
+        height: 8px;
+    }
+}
+@media(max-width: 375px){
+    .navbar-back ul li a {
+        font-size: 11px;
+    }
+    .btn-custom {
+        font-size: 9px;
+        border-radius: 3px;
+        padding: 6px 3px;
+    }
+    .btn-custom::before{
+        border-radius: 3px;
+    }
+    .banner-content h1 {
+        font-size: 22px;
+    }
+    .h1-bottom-border {
+        font-size: 18px;
+    }
+    .device-spec .h1-bottom-border {
+        font-size: 17px;
+        padding-bottom: 20px;
+    }
+    .w-sm{
+        padding-left: 0px!important;
+    }
+    .download .btn-ul .btn-custom {
+        font-size: 9px;
+        padding: 6px 10px;
+    }
+}
+@media (max-width: 320px){
+    .navbar-toggler {
+        padding: 2px 6px;
+        font-size: 16px;
+    }
+    .w320{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .w320 .marker {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .banner-content h1 {
+        font-size: 20px;
+    }
+    .banner-content p {
+        font-size: 11px;
+    }
+    .btn-custom {
+        font-size: 8px;
+        border-radius: 3px;
+        padding: 5px 6px;
+    }
+    .btn-custom::before{
+        border-radius: 3px;
+    }
+    .hg {
+        padding-top: 95px;
+        padding-right: 0;
+    }
+    .features-area {
+        padding: 40px 0px;
+        padding-bottom: 30px;
+    }
+    .navbar-back {
+        padding-top: 10px;
+    }
+    .marker {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .h1-bottom-border {
+        font-size: 16px;
+    }
+    .img-content {
+        height: 60px;
+        width: 60px;
+        line-height: 65px;
+    }
+    .features-content-area {
+        padding: 0px 0px;
+    }
+    .img-content i {
+        font-size: 24px;
+    }
+    .features-content .img-content {
+        margin-bottom: 0px;
+    }
+    .features-content h6 {
+        font-size: 16px;
+    }
+    .features-content p {
+        font-size: 12px;
+    }
+    .features-content{
+        margin-top: 25px;
+    }
+    .content {
+        padding: 35px 0px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }    
+    .btn-ul {
+        padding: 0px 0px;
+    }
+    .device-spec .h1-bottom-border {
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+    .device-spec .h1-bottom-border::before {
+        left: 41%;
+    }
+    .device-spec .h1-bottom-border::after {
+        left: 51%;
+    }
+    .content p {
+        margin-top: 25px;
+        font-size: 13px;
+    }
+    .content-text {
+        display: flex;
+        margin: auto;
+        text-align: center;
+    }
+    .content-text h6 {
+        padding-left: 10px;
+        font-size: 12px;
+    }
+    .content-text .icon-area i {
+        font-size: 14px;
+    }
+    .content-text .icon-area {
+        height: 20px;
+        width: 20px;
+        line-height: 15px;
+    }
+    .customize-content p {
+        font-size: 12px;
+    }
+    .custom .mobile {
+        background-image: none;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 0px;
+        opacity: 0;
+    }
+    .custom {
+        padding: 30px 0px;
+        justify-content: center!important;
+        align-items: center!important;
+        margin: auto!important;
+        text-align: center;
+    }
+    .custom .h1-bottom-border::before {
+        left: 40%;
+    }
+    .custom .h1-bottom-border::after {
+        left: 50%;
+    }
+    .pricing-plans-main {
+        padding: 30px 0px;
+    }
+    .pricing-plans-content .h1-bottom-border {
+        padding-bottom: 20px;
+        color: #999999;
+        font-size: 22px;
+    }
+    .silder{
+        justify-content: center!important;
+        align-items: center!important;
+        margin: auto!important;
+        text-align: center;
+    }
+    .main-silder {
+        padding: 0px 0px;
+        padding-bottom: 95px;
+    }
+    .italic-text {
+        font-size: 12px;
+    }
+    .user-detail {
+        display: block;
+        margin: auto;
+        padding-top: 20px;
+    }
+    .user-detail .img-con img{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .name-info h6 {
+        font-size: 16px;
+    }
+    .name-info p {
+        font-size: 12px;
+    }
+    .pad{
+        margin-top: 20px;
+    }
+    .dw320{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .download-section h1 {
+        font-size: 8px;
+    }
+    .download-section .btn-area{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+
+    .download .btn-ul .btn-custom {
+        font-size: 8px;
+    }
+    .pricing-versions {
+        padding: 40px 0px;
+    }
+    .plan h3 {
+        font-size: 12px;
+    }
+    .price h1 {
+        font-size: 24px;
+        margin: 0;
+    }
+    .amount h4 {
+        font-size: 12px;
+        padding-top: 4px;
+        margin: 0;
+    }
+    .price p {
+        font-size: 10px;
+        padding-bottom: 10px;
+    }
+    .amount {
+        padding-top: 8px;
+    }
+    .benifit p {
+        font-size: 10px;
+        margin-bottom: 12px;
+        padding: 0px 5px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .plan .btn-custom {
+        padding: 5px 10px;
+        font-size: 10px;
+    }
+    .pw320{
+        margin-top: 15px;
+    }
+    .main-cont {
+        padding: 50px 0px;
+    }
+    .info {
+        padding: 25px 0px;
+    }
+    .contact-icon {
+        padding-bottom: 10px;
+    }
+    .contact-info p {
+        margin: 0;
+        font-size: 11px;
+        font-family: 'SourceSansPro Regular',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        color: #3f3f3f;
+    }
+    form .input-style {
+        margin-bottom: 12px;
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .social-icon i {
+        font-size: 18px;
+    }
+    .w-sm{
+        padding-left: 0px!important;
+    }
+    .footer-main p {
+        font-size: 9px;
+    }
+    .bttn-send {
+        padding-bottom: 30px;
+        text-align: center;
+        justify-content: center!important;
+    }
+    .bttn-send .btn-custom {
+        font-size: 12px;
+        border-radius: 3px;
+        padding: 6px 30px;
+    }
+    .btn-custom::before{
+        border-radius: 3px;
+    }
+    .contact-area {
+        background-color: #f2f2f2;
+        min-height: 590px;
+    }
+    .btn-area{
+        padding: 0;
+    }
+}
